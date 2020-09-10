@@ -4,7 +4,7 @@
 <img src=http://g.recordit.co/AJtS8xcl8V.gif width=250>  <img src=http://g.recordit.co/K7P0fVv7Rj.gif width=250><br>
 ## Newsfeed
 <img src=http://g.recordit.co/SadPWGxWui.gif width=250><br>
-### Newsfeed: Likes
+### -Newsfeed: Likes
 <img src=http://g.recordit.co/SadPWGxWui.gif width=250><br>
 ## Casting Profile
 <img src=http://g.recordit.co/jFJVPEUN1p.gif width=250><br>
