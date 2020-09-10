@@ -1,1 +1,1 @@
-# Mischief-Portfolio
+# Mischief.app 2020 Summer Internship
