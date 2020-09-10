@@ -2,7 +2,7 @@
 
 Collabarators: **Kevin Lin**
 
-Developed this app as a part of Research & Developmen(R&D) team for Mischief.app Summer Software Engineering Internship.
+Developed this React Native app as a part of Research & Developmen(R&D) team for Mischief.app Summer Software Engineering Internship.
 As a part of the R&D team, we had to determine what framework (Flutter vs React Native) would be most beneficial for Mischief to use and attempt to create a functional mobile Mischief application with the given framework, in this case React Native.
 
 ## Features
