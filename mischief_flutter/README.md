@@ -1,16 +1,24 @@
-# mischief_empty
+# Mischief.app Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Left and Right Drawer Navigation
+<img src=http://g.recordit.co/AJtS8xcl8V.gif width=250>  <img src=http://g.recordit.co/K7P0fVv7Rj.gif width=250><br>
+## Newsfeed
+<img src=http://g.recordit.co/SadPWGxWui.gif width=250><br>
+### Newsfeed: Likes
+<img src=http://g.recordit.co/SadPWGxWui.gif width=250><br>
+## Casting Profile
+<img src=http://g.recordit.co/jFJVPEUN1p.gif width=250><br>
+### -Casting Profile: Add Headshots 
+<img src=http://g.recordit.co/sdd3hJgIwG.gif width=250><br>
+### -Casting Profile: Add Videos 
+<img src=http://g.recordit.co/8BAADVW6d8.gif width=250>  <img src=http://g.recordit.co/vHuJqrbw3B.gif width=250><br>
+### -Casting Profile: Basic Information 
+<img src=http://g.recordit.co/4vvBeu8po5.gif width=250><br>
+### -Casting Profile: Travel Preferences 
+<img src=http://g.recordit.co/KEKlmbAyxF.gif width=250><br>
+### -Casting Profile: Set Your Schedule 
+<img src=http://g.recordit.co/4WEzlbuaeT.gif width=250><br>
+### -Casting Profile: Link Social Media 
+<img src=http://g.recordit.co/TvAKubab1T.gif width=250><br>
+### -Casting Profile: Review Profile
+<img src=http://g.recordit.co/k494okEEUn.gif width=250><br>
