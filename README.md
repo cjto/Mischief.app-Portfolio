@@ -9,7 +9,7 @@ We're building a software platform (iOS and web) to provide screenwriters, produ
 Whether you're producing a feature film, television series, commercial, music video, web series, or student film, we aim for Mischief to fulfill all of your entertainment needs.
 
 
-**Flutter**: [Flutter](mischief_flutter) 
+**Flutter**: [Click Here](mischief_flutter) 
 
 
-**React Native**: [React Native](mischief_react_native)
+**React Native**: [Click Here](mischief_react_native)
