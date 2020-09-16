@@ -2,6 +2,10 @@
 
 ## Left and Right Drawer Navigation
 - **Left Drawer/Menu Bar** is summoned on left screen swipe or top left menu button press
+- Particular cells in the left drawer have collapsing cells that contains more cells
+- Cells route to its designated screen
+
+- **Right Drawer/Menu Bar** is summoned on right screen swipe or top right avatar button press
 
 <img src=http://g.recordit.co/AJtS8xcl8V.gif width=250>  <img src=http://g.recordit.co/K7P0fVv7Rj.gif width=250><br>
 ## Newsfeed
