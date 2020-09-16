@@ -1,7 +1,7 @@
 # Mischief.app Flutter
 
 ## Left and Right Drawer Navigation
-- Left Drawer/Menu Bar is summoned on left screen swipe or top left menu button press
+- **Left Drawer/Menu Bar** is summoned on left screen swipe or top left menu button press
 
 <img src=http://g.recordit.co/AJtS8xcl8V.gif width=250>  <img src=http://g.recordit.co/K7P0fVv7Rj.gif width=250><br>
 ## Newsfeed
