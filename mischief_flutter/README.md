@@ -62,5 +62,6 @@
 
 ## RESTful API on Google Cloud
 - Assisted in creating a RESTful API that was deployed on Google cloud that the app fully interacts with when accessing data
-![ggc](https://user-images.githubusercontent.com/59327790/93407454-17918280-f847-11ea-871b-5a71db94337a.png)
+![googleccc](https://user-images.githubusercontent.com/59327790/93407514-3f80e600-f847-11ea-88ba-eb5e48a3c718.png)
+
 
