@@ -27,8 +27,14 @@
 
 <img src=http://g.recordit.co/jFJVPEUN1p.gif width=250><br>
 ### -Casting Profile: Add Headshots 
+- In **Add Headshots**, users are able to upload their best headshots/images of themselves
+- When users press on any of the four images, the user's camera roll/gallery is summoned where the user can pick their favorite images
+
 <img src=http://g.recordit.co/sdd3hJgIwG.gif width=250><br>
 ### -Casting Profile: Add Videos 
+- The scrollable **Add Videos** component gives users a chance to upload reels of their past work which then displayed in a ListView
+- User can either upload videos by a YouTube link or a more local approach by summoning the camera roll/gallery
+
 <img src=http://g.recordit.co/8BAADVW6d8.gif width=250>  <img src=http://g.recordit.co/vHuJqrbw3B.gif width=250><br>
 ### -Casting Profile: Basic Information 
 <img src=http://g.recordit.co/4vvBeu8po5.gif width=250><br>
