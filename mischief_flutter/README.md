@@ -22,8 +22,8 @@
 
 <img src=http://g.recordit.co/An6xeXt2DX.gif width=250><br>
 ## Casting Profile
-- The **Casting Profile** workflow asks users for information when creating a User Profile as an actor, such as:
-              asdf
+- The **Casting Profile** workflow asks users for information and media when creating a User Profile as an actor.
+- These include: Headshots, Videos, Personal Information, Travel Preferences, Schedule Information, and Social Media
 
 <img src=http://g.recordit.co/jFJVPEUN1p.gif width=250><br>
 ### -Casting Profile: Add Headshots 
