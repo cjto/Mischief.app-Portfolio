@@ -1,6 +1,6 @@
 # Mischief.app Flutter
 
-*Due to a Non-Disclosure Agreement with Mischief.app, the exact Flutter code can not be provided*
+*Note: Due to Mischief.apps' non-disclosure terms, the exact Flutter code can not be distributed. The code provided is an empty Flutter project*
 
 ## Left and Right Drawer Navigation
 - **Left Drawer/Menu Bar** is summoned on left screen swipe or top left menu button press
