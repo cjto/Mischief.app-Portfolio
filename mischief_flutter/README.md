@@ -22,7 +22,8 @@
 
 <img src=http://g.recordit.co/An6xeXt2DX.gif width=250><br>
 ## Casting Profile
-- This workflow asks users for information when creating a User Profile as an actor
+- The **Casting Profile** workflow asks users for information when creating a User Profile as an actor, such as:
+              asdf
 
 <img src=http://g.recordit.co/jFJVPEUN1p.gif width=250><br>
 ### -Casting Profile: Add Headshots 
