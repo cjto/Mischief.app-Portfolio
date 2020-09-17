@@ -59,3 +59,6 @@
 - Lets users review their inputted data and edit if necessary
 
 <img src=http://g.recordit.co/k494okEEUn.gif width=250><br>
+
+## RESTful API on Google Cloud
+- Assisted in creating a RESTful API that was deployed on Google cloud that the app fully interacts with when accessing data
